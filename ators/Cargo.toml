@@ -16,7 +16,7 @@ publish.workspace = true
 atorsl.workspace = true
 anyhow = "1.0.70"
 clap = { version = "4.2.1", features = ["cargo", "string"] }
-itertools = "0.10.5"
+itertools = "0.11.0"
 
 # object
 memmap2 = "0.5.10"
